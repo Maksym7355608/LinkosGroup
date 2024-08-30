@@ -1,0 +1,15 @@
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.App\bin\Debug\net8.0\Light.App.deps.json
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.App\bin\Debug\net8.0\Light.App.dll
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.App\bin\Debug\net8.0\Light.App.pdb
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.App\bin\Debug\net8.0\Light.Data.dll
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.App\bin\Debug\net8.0\Light.Data.pdb
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.App\obj\Debug\net8.0\Light.App.csproj.AssemblyReference.cache
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.App\obj\Debug\net8.0\Light.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.App\obj\Debug\net8.0\Light.App.AssemblyInfoInputs.cache
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.App\obj\Debug\net8.0\Light.App.AssemblyInfo.cs
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.App\obj\Debug\net8.0\Light.App.csproj.CoreCompileInputs.cache
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.App\obj\Debug\net8.0\Light.App.csproj.Up2Date
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.App\obj\Debug\net8.0\Light.App.dll
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.App\obj\Debug\net8.0\refint\Light.App.dll
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.App\obj\Debug\net8.0\Light.App.pdb
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.App\obj\Debug\net8.0\ref\Light.App.dll

@@ -1,0 +1,14 @@
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.Data\bin\Debug\net8.0\Light.Data.deps.json
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.Data\bin\Debug\net8.0\Light.Data.dll
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.Data\bin\Debug\net8.0\Light.Data.pdb
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.Data\obj\Debug\net8.0\Light.Data.csproj.AssemblyReference.cache
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.Data\obj\Debug\net8.0\Light.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.Data\obj\Debug\net8.0\Light.Data.AssemblyInfoInputs.cache
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.Data\obj\Debug\net8.0\Light.Data.AssemblyInfo.cs
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.Data\obj\Debug\net8.0\Light.Data.csproj.CoreCompileInputs.cache
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.Data\obj\Debug\net8.0\Light.Data.dll
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.Data\obj\Debug\net8.0\refint\Light.Data.dll
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.Data\obj\Debug\net8.0\Light.Data.pdb
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.Data\obj\Debug\net8.0\ref\Light.Data.dll
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.Data\bin\Debug\net8.0\Light.Data.runtimeconfig.json
+C:\Users\mmajo\RiderProjects\LinkosGroup\Light.Data\obj\Debug\net8.0\Light.Data.genruntimeconfig.cache
